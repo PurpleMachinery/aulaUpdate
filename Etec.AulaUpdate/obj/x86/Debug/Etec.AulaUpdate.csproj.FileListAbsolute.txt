@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\bin\Debug\Etec.AulaUpdate.exe
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\bin\Debug\Etec.AulaUpdate.pdb
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\obj\x86\Debug\Etec.AulaUpdate.Form1.resources
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\obj\x86\Debug\Etec.AulaUpdate.Form2.resources
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\obj\x86\Debug\Etec.AulaUpdate.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\obj\x86\Debug\Etec.AulaUpdate.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\obj\x86\Debug\Etec.AulaUpdate.exe
+C:\Users\Aluno\Desktop\Etec.AulaUpdate\Etec.AulaUpdate\obj\x86\Debug\Etec.AulaUpdate.pdb
